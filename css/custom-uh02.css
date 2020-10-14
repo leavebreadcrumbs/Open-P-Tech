@@ -1,0 +1,377 @@
+.tp-rightarrow.tparrows.hebe {
+  display: none;
+}
+.tp-leftarrow.tparrows.hebe {
+  display: none;
+}
+section.parallax {
+    height: 500px;
+}
+/* New - 24 sep 2020 */
+.menu {
+    background: #fcfcfc;
+}
+.mega-menu .menu-logo {
+    padding: 14px 0 5px;
+}
+.mega-menu .menu-logo img {
+    height: 22px;
+}
+section.menu-list-items {
+    height: 74px !important;
+}
+
+@media (min-width: 990px) {
+.mega-menu .menu-logo img {
+    height: 26px;
+}
+.header.light .mega-menu {
+    min-height: 76px;
+}
+.mega-menu .menu-logo {
+    padding: 26px 0 5px;
+}
+a.top.arrow {
+    padding-top: 4px;
+}
+#pre-loade img {
+    fill: #7f0000;
+}
+}
+.menu-links .menu-blue {
+      background-color: #013a81 !important;
+      border-color: #013a81 !important;
+      border-radius: 0.5rem !important;
+      color: #ffffff !important;
+      padding: 0.5rem 0.75rem !important;
+      margin-right: 4px;
+}
+
+.menu-links .menu-blue-li {
+  padding-right: 4px !important;
+}
+
+.menu-links .menu-yellow {
+      background-color: #f5b611 !important;
+      border-color: #f5b611 !important;
+      border-radius: 0.5rem !important;
+      color: #013a81; padding: 0.5rem 0.75rem !important;
+
+}
+
+
+.text-yellow {
+  font-size: 1.875rem;
+  color: #f5b611;
+}
+
+
+.text-blue {
+  font-size: 17px;
+  color: #013a81;
+}
+
+
+.links-second {
+display: inline-block;
+height: 100%;
+line-height: 1.4em;
+}
+
+ul.links-second > li {
+  display: table-cell;
+  float: none;
+  padding: 28px 50px;
+  text-decoration: underline;
+}
+
+.link-second-us02 {
+  background: #f0f4f9;
+  height: 84px;
+}
+
+
+@media (min-width: 990px) {
+
+  .row.ad {
+    padding: 0 250px;
+}
+}
+@media (max-width: 990px) {
+
+  ul.links-second > li {
+    padding: 25px 20px 50px 20px;
+
+  }
+
+}
+
+@media (max-width: 1368px) {
+  .text-blue-heading {
+      padding: 20px;
+      margin-right: 50px;
+      font-size: 38px !important;
+  }
+}
+@media (max-width: 1100px) {
+  .text-blue-heading {
+      font-size: 34px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .text-blue-heading {
+      font-size: 24px !important;
+  }
+  ul.links-second > li {
+    padding: 25px 10px 25px 10px;
+  }
+  .link-second-us02 {
+    background: #f0f4f9;
+    height: 100px;
+  }
+  .row.ad {
+    padding: 0 160px;
+}
+.acd-group {
+  margin-left: 0 !important;
+}
+.nfs01 {
+  padding: 80px 0 40px 0 !important;
+}
+
+.pr01 {
+  padding: 20px 0 !important  ;
+}
+.career-se01 {
+    padding: 0 0 20px 0 !important;
+}
+
+.career-se01 h2 br {
+    display: none;
+}
+.feature-info.sc03 h4 {
+    font-size: 22px;
+}
+}
+
+@media (max-width: 500px) {
+
+  .row.ad {
+    padding: 0 100px;
+}
+.links-second {
+    font-size: 12px;
+}
+.sc02 {
+    text-align: center;
+}
+.sc02 img.img-fluid {
+    width: 60%;
+}
+
+
+}
+
+
+.link-seond-us01  h4 {
+  font-size: 16px;
+  text-decoration: underline;
+  color: #013a81;
+}
+
+.link-seond-us01 .feature-info {
+text-align: center;
+
+}
+
+.us01-center {
+  justify-content: center;
+  padding: 20px 0;
+  margin: 0;
+}
+
+
+.feature-image-sm {
+  width: 100%;
+}
+
+
+.text-blue-bg {
+  background: #2d9ca0;
+}
+
+.text-blue-bg h4 {
+  font-size: 12px !important;
+  color: #fff !important;
+  border-radius: 0 0 0.3125rem 0.3125rem;
+
+}
+
+.text-blue-bg {
+  border-radius: 0 0 0.3125rem 0.3125rem;
+}
+
+
+.text-blue-bg h4 {
+
+   padding: 6px 0px;
+    width: 100%;
+
+}
+
+.text-blue-bg-radious img {
+    border-radius: 0.3125rem 0.3125rem 0 0;
+}
+
+.faq-section-hs01 {
+  margin-top: 80px;
+}
+
+.acd-group {
+margin-left: 30px;
+margin-top: 5px;
+font-weight: 600;
+}
+
+a.acd-heading {
+    font-weight: 600 !important;
+    font-size: 15px !important;
+    text-transform: capitalize !important;
+}
+
+.page-section-ptb.faq-hs {
+  padding-top: 60px;
+}
+
+.text-white.ftx01 {
+  font-size: 28px !important;
+  margin-bottom: 16px;
+}
+
+.text-blue-bold {
+  font-size: 34px;
+  font-weight: 500;
+  color: #013a81;
+  text-transform: uppercase;
+}
+.text-blue-heading {
+    background: #c3c3c3;
+    padding: 20px;
+    color: #013a81;
+    font-weight: 600;
+    margin-right: 70px;
+    text-align: center;
+    font-size: 50px;
+    line-height: 1.1;
+    margin-bottom: 20px;
+}
+a.text-blue-button {
+    background: #013a81;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 38px;
+    border-radius: 0.5rem;
+}
+a.text-blue-button:hover {
+    background: #c3c3c3;
+    color: #013a81;
+}
+.career-se01 h5 {
+  font-size: 16px;
+  font-weight:
+}
+
+.career-se01 h2 {
+  font-weight: 600;
+  color: #013a81;
+}
+.feature-info.pg-detl {
+    background: #f0f4f9;
+    font-size: 12px;
+    padding: 24px 0 30px 30px;
+    border-radius: 0.3125rem 0.3125rem 0 0;
+    border: solid 1px #e1e8f1;
+
+}
+
+.feature-info.pg-detl p {
+      margin: 0 !important;
+      padding-top: 5px;
+      padding-bottom: 10px;
+          color: #013a81 !important;
+}
+
+.feature-info.pg-detl h5 {
+   padding: 0 0 10px 0;
+   color: #013a81 !important;
+
+}
+.feature-info.pg-detl-confm {
+    background: #f5b611;
+    padding: 14px 0 8px 0;
+    font-size: 12px;
+    color: #013a81 !important;
+    border-radius: 0 0 0.3125rem 0.3125rem;
+}
+
+.pg-detl-main .feature-info.pg-detl-confm h5 {
+  text-align: center;
+  font-size: 14px !important;
+  font-weight: 500;
+}
+
+b, strong {
+    font-weight: 500 !important;
+
+}
+
+.nfs01 {
+  padding: 120px 0 60px 0;
+}
+
+.mega-menu.desktopTopFixed .menu-list-items .menu-logo > li > a img {
+    height: 36px !important;
+    padding: 10px 0 0 20px;
+}
+
+/* .prh201 {
+  font-size: 20px;
+} */
+
+a.col-lg-12.row.text-center.justify-content-center.register-btn-sec {
+    background: #e4e4e4;
+    margin: 0;
+    padding: 32px 0;
+    font-size: 30px;
+    font-weight: 500;
+
+}
+
+
+a.col-lg-12.row.text-center.justify-content-center.register-btn-sec:hover {
+  background: #013a81;
+  color: #fff;
+}
+
+span.fa.fa-caret-right.arw01 {
+    padding: 12px 0 0 7px;
+}
+
+.feature-info.sc03 h4 a, .feature-info.sc03 p {
+    color: #013a81;
+    margin-bottom: 0;
+}
+
+span.ftx02 {
+    padding-right: 4px;
+}
+
+.nfs02.feature-text.left-icon .feature-info {
+  padding-left: 10px !important;
+}
+
+.feature-info.sc03 {
+    margin-top: -30px !important;
+}
